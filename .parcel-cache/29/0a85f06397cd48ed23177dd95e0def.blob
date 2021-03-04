@@ -1,0 +1,9 @@
+.toggle {
+  border: 2px solid black;
+}
+
+.toggle .active {
+  background: yellow;
+}
+
+/*# sourceMappingURL=vanila-redux.57b32776.css.map */

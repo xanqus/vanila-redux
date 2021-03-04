@@ -1,0 +1,1 @@
+{"mappings":"AAAAA,QAAQC,IAAI","sources":["./index.js"],"sourcesContent":["console.log(\"hello parcel\");\r\n"],"names":["console","log"],"version":3,"file":"vanila-redux.4b4b7573.js.map"}

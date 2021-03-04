@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="f3e16f68227f5a56407ec17b3737ba2c">
+  </head>
+  <body>
+    <div class="toggle"></div>
+    <hr>
+    <h1>0</h1>
+    <button id="increase">+1</button> <button id="decrease">-1</button>
+    <div>바닐라 자바스크립트</div>
+    <script src="da8aeeccb9474555cfc51baf6d659d83"></script>
+  </body>
+</html>

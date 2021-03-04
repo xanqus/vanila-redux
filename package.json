@@ -1,0 +1,12 @@
+{
+  "name": "vanila-redux",
+  "version": "1.0.0",
+  "main": "index.html",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "4.0.5"
+  },
+  "devDependencies": {
+    "parcel": "2.0.0-nightly.610"
+  }
+}
